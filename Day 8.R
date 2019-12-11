@@ -32,7 +32,6 @@ count_condition(min_0, 1) * count_condition(min_0, 2)
 
 
 ## Part 2
-layers[[1]][which(layers[[1]] == 2)]
 stack_layers = function(layers){
   picture = layers[[1]]
   
